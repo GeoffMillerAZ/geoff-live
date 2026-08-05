@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- One entry per route registered in spa/components/Boot.js (ROUTES) AND
+     enabled by window.SITE_FEATURES. Achievements and Resources were listed
+     here while flagged off: Boot filters them out of ROUTES, so both resolved
+     to the chat page, and Google was being asked to index two URLs that are
+     not pages. Re-add them here when the flags come back on.
+     No <lastmod>: the SPA has no per-route publication date to report. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://geoffmiller.cloud/</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/resume</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/projects</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/recommendations</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/articles</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/about</loc>
+  </url>
+  <url>
+    <loc>https://geoffmiller.cloud/contact</loc>
+  </url>
+</urlset>
